@@ -499,7 +499,6 @@ Basculin-B
 Basculin-W
 Basculegion-M
 Basculegion-F
-Deoxys-D
 Diancie
 Entei
 Glastrier
@@ -527,3 +526,4 @@ Regieleki
 Excadrill
 Sneasel
 Thwackey
+
