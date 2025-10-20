@@ -39,7 +39,6 @@ Golem-Alola
 Rapidash
 Rapidash-Galar
 Slowbro
-Slowbro
 Farfetch’d
 Dodrio
 Dewgong
@@ -100,7 +99,6 @@ Sunflora
 Quagsire
 Espeon
 Umbreon
-Slowking
 Slowking
 Wobbuffet
 Forretress
@@ -506,7 +504,6 @@ Cobalion
 Virizion
 Shaymin
 Celebi
-Silvally
 Zygarde-10%
 Guzzlord
 Brute Bonnet
@@ -514,15 +511,14 @@ Iron Thorns
 Hydrapple
 Sneasel-H
 Zweilous
-Dragonair
 Calyrex
 Regigigas
 Uxie
 Type-Null
 Pupitar
 Regieleki
-Excadrill
 Sneasel
 Thwackey
+
 
 
