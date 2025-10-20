@@ -102,7 +102,6 @@ Espeon
 Umbreon
 Slowking
 Slowking
-Unown
 Wobbuffet
 Forretress
 Steelix
@@ -501,7 +500,6 @@ Basculegion-M
 Basculegion-F
 Diancie
 Entei
-Glastrier
 Stakataka
 Wo-Chien
 Cobalion
@@ -526,4 +524,5 @@ Regieleki
 Excadrill
 Sneasel
 Thwackey
+
 
