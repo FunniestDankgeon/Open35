@@ -39,7 +39,6 @@ Golem-Alola
 Rapidash
 Rapidash-Galar
 Slowbro
-Slowbro
 Farfetch’d
 Dodrio
 Dewgong
@@ -72,7 +71,7 @@ Tauros-Paldea Aqua
 Gyarados
 Lapras
 Ditto
-Vaporean
+Vaporeon
 Jolteon
 Flareon
 Omastar
@@ -101,8 +100,6 @@ Quagsire
 Espeon
 Umbreon
 Slowking
-Slowking
-Unown
 Wobbuffet
 Forretress
 Steelix
@@ -138,7 +135,7 @@ Pelipper
 Gardevoir
 Masquerain
 Breloom
-Salking
+Slaking
 Ninjask
 Shedinja
 Exploud
@@ -223,7 +220,6 @@ Toxicroak
 Carnivine
 Lumineon
 Abomasnow
-Weavile
 Magnezone
 Lickilicky
 Rhyperior
@@ -234,7 +230,6 @@ Togekiss
 Yanmega
 Leafeon
 Glaceon
-Gliscor
 Mamoswine
 Porygon-Z
 Gallade
@@ -364,8 +359,7 @@ Lycanroc-Midday
 Lycanroc-Midnight
 Lycanroc-Dusk
 Wishiwashi
-Toxapex
-Musdale
+Mudsdale
 Araquanid
 Lurantis
 Shiinotic
@@ -376,7 +370,7 @@ Comfey
 Oranguru
 Passimian
 Golisopod
-Palosand
+Palossand
 Pyukumuku
 Silvally
 Minior
@@ -387,7 +381,6 @@ Mimikyu
 Bruxish
 Drampa
 Dhelmise
-Rillaboom
 Inteleon
 Greedent
 Corviknight
@@ -397,7 +390,7 @@ Eldegoss
 Dubwool
 Drednaw
 Boltund
-Colossal
+Coalossal
 Flapple
 Appletun
 Sandaconda
@@ -429,11 +422,11 @@ Copperajah
 Dracozolt
 Arctozolt
 Arctovish
-Duraldon
+Duraludon
 Wyrdeer
 Kleavor
 Overqwil 
-Sekledirge
+Skeledirge
 Quaquaval
 Oinkologne (Male)
 Oinkologne (Female)
@@ -443,26 +436,25 @@ Pawmot
 Maushold
 Dachsbun
 Arboliva
-Squarkabilly
+Squawkabilly
 Garganacl
-Armourage
+Armarouge
 Ceruledge
 Bellibolt
 Kilowattrel
-Mabostiff
+Mabosstiff
 Grafaiai
 Brambleghast
-Toesdcruel
+Toedscruel
 Klawf
 Scovillain
 Rabsca
-Espathra
 Tinkaton
 Wugtrio
 Bombirdier
 Revavroom
 Cyclizar
-Orthwrom
+Orthworm
 Glimmora
 Houndstone
 Flamigo
@@ -474,7 +466,7 @@ Clodsire
 Farigiraf
 Dudunsparce
 Dipplin
-Sninistcha
+Sinistcha
 Scyther
 Dusclops
 Bisharp
@@ -504,17 +496,14 @@ Basculin-B
 Basculin-W
 Basculegion-M
 Basculegion-F
-Deoxys-D
 Diancie
 Entei
-Glastrier
 Stakataka
 Wo-Chien
 Cobalion
 Virizion
 Shaymin
 Celebi
-Silvally
 Zygarde-10%
 Guzzlord
 Brute Bonnet
@@ -522,11 +511,14 @@ Iron Thorns
 Hydrapple
 Sneasel-H
 Zweilous
-Dragonair
 Calyrex
 Regigigas
 Uxie
 Type-Null
 Pupitar
 Regieleki
-Excadrill
+Sneasel
+Thwackey
+
+
+
